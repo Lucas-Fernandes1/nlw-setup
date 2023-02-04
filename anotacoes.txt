@@ -1,6 +1,0 @@
-1) Align-items - só funciona se houver o "display: flex";
-2) font-weight: - Peso
-3) line-height: 125%; - Altura da linha
-4) gap - espaço entre, se o elemento for do tipo flex;
-5) No uso do input checkbox é necessário retirar a appearence dele (none);
-6) Alguns navvegadores precisam da declaração (-webkit-appearance);
